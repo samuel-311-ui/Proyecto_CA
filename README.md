@@ -2,6 +2,12 @@
 
 **Computación Avanzada — Cierre del curso**
 
+## Video
+
+Video de la ejecución con uvicorn y Docker: (https://drive.google.com/file/d/1g1YDUnEi9GPvc0BgxCdJvySSNkzKwdvs/view?usp=sharing)
+
+---
+
 Vas a construir un servicio web que pronostica las próximas horas de una variable medida por sensores. Los datos vienen de **InfluxDB**, el modelo es un **SARIMA** que tú entrenas en **Google Colab**, la API está hecha en **FastAPI** y todo corre en **GitHub Codespaces**. Al final lo empaquetas en un **contenedor Docker**.
 
 ## Qué recibes y qué construyes
